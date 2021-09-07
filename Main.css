@@ -1,0 +1,30 @@
+.textfield{
+	border: 3px solid black;
+	border-radius: 3px;
+	padding: 20px;
+	margin: 0px;
+	width: 370px;
+	font-size: 20px;
+	color: black;
+}
+#input{
+	width: 100px; 
+	height: 80px;
+	font-size: 20px;
+	background-color: black;
+	color: white;
+}
+#input:hover{
+	background-color: rgb(217,217,217);
+	color: black;
+}
+#tab{
+	border: 2px solid black;
+	border-radius: 3px;
+	margin: 0px;
+	margin-left: 550px;
+	margin-top: 100px;
+	height: 200px;
+	background-color: black;
+	color: white;
+}
